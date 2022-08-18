@@ -1,0 +1,23 @@
+Test Case 1
+
+Input
+2 2 
+1.5 1
+2 2.9
+Your Output
+[1.25 2.45]
+Expected Output
+[1.25 2.45]
+
+-----------------------------------------
+Test Case 2
+
+Input
+3 2
+1 2
+1 0.5
+1 0.3
+Your Output
+[1.5  0.75 0.65]
+Expected Output
+[1.5  0.75 0.65]
