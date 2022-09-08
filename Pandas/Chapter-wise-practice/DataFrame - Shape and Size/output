@@ -52,3 +52,17 @@ Size =  180
 *********************
 Shape =  45
 Shape =  4
+*************************
+first 3 = 
+                    order  age  height                  party
+name                                                        
+George Washington      1   57     189                   none
+John Adams             2   61     170             federalist
+Thomas Jefferson       3   57     189  democratic-republican
+last 4 = 
+                  order  age  height       party
+name                                           
+Bill Clinton        42   46     188  democratic
+George W. Bush      43   54     182  republican
+Barack Obama        44   47     185  democratic
+Donald J. Trump     45   70     191  republican
