@@ -1,0 +1,54 @@
+                        order  age  height                  party
+name                                                             
+George Washington           1   57     189                   none
+John Adams                  2   61     170             federalist
+Thomas Jefferson            3   57     189  democratic-republican
+James Madison               4   57     163  democratic-republican
+James Monroe                5   58     183  democratic-republican
+John Quincy Adams           6   57     171  democratic-republican
+Andrew Jackson              7   61     185             democratic
+Martin Van Buren            8   54     168             democratic
+William Henry Harrison      9   68     173                   whig
+John Tyler                 10   51     183                   whig
+James K. Polk              11   49     173             democratic
+Zachary Taylor             12   64     173                   whig
+Millard Fillmore           13   50     175                   whig
+Franklin Pierce            14   48     178             democratic
+James Buchanan             15   65     183             democratic
+Abraham Lincoln            16   52     193             republican
+Andrew Johnson             17   56     178         national union
+Ulysses S. Grant           18   46     173             republican
+Rutherford B. Hayes        19   54     174             republican
+James A. Garfield          20   49     183             republican
+Chester A. Arthur          21   51     183             republican
+Grover Cleveland           22   47     180             democratic
+Benjamin Harrison          23   55     168             republican
+Grover Cleveland           25   55     180             democratic
+William McKinley           25   54     170             republican
+Theodore Roosevelt         26   42     178             republican
+William Howard Taft        27   51     182             republican
+Woodrow Wilson             28   56     180             democratic
+Warren G. Harding          29   55     183             republican
+Calvin Coolidge            30   51     178             republican
+Herbert Hoover             31   54     182             republican
+Franklin D. Roosevelt      32   51     188             democratic
+Harry S. Truman            33   60     175             democratic
+Dwight D. Eisenhower       34   62     179             republican
+John F. Kennedy            35   43     183             democratic
+Lyndon B. Johnson          36   55     193             democratic
+Richard Nixon              37   56     182             republican
+Gerald Ford                38   61     183             republican
+Jimmy Carter               39   52     177             democratic
+Ronald Reagan              40   69     185             republican
+George H. W. Bush          41   64     188             republican
+Bill Clinton               42   46     188             democratic
+George W. Bush             43   54     182             republican
+Barack Obama               44   47     185             democratic
+Donald J. Trump            45   70     191             republican
+*********************
+Shape =  (45, 4)
+*********************
+Size =  180
+*********************
+Shape =  45
+Shape =  4
