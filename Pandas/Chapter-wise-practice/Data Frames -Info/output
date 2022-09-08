@@ -1,0 +1,16 @@
+
+import pandas as pd 
+presidents_df = pd.read_csv('https://sololearn.com/uploads/files/president_heights_party.csv', index_col='name')
+print("info = ",presidents_df.info())
+<class 'pandas.core.frame.DataFrame'>
+Index: 45 entries, George Washington to Donald J. Trump
+Data columns (total 4 columns):
+ #   Column  Non-Null Count  Dtype 
+---  ------  --------------  ----- 
+ 0   order   45 non-null     int64 
+ 1   age     45 non-null     int64 
+ 2   height  45 non-null     int64 
+ 3   party   45 non-null     object
+dtypes: int64(3), object(1)
+memory usage: 1.8+ KB
+info =  None
