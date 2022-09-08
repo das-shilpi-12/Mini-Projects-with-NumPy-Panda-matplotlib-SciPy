@@ -1,12 +1,6 @@
-Pandas vs. Numpy
+# Pandas vs. Numpy
 
-Pandas is an open-source, BSD-licensed library written in Python Language. 
-
-Pandas provide high performance, fast, easy-to-use data structures, and data analysis tools for manipulating numeric data and time series. 
-
-Pandas is built on the numpy library and written in languages like Python, Cython, and C. 
-
-In pandas, we can import data from various file formats like JSON, SQL, Microsoft Excel, etc.
+Pandas is an open-source, BSD-licensed library written in Python Language. Pandas provide high performance, fast, easy-to-use data structures, and data analysis tools for manipulating numeric data and time series. Pandas is built on the numpy library and written in languages like Python, Cython, and C. In pandas, we can import data from various file formats like JSON, SQL, Microsoft Excel, etc.
 
 Example:
 
@@ -21,13 +15,13 @@ age = [['Aman', 95.5, "Male"], ['Sunny', 65.7, "Female"],
 df = pd.DataFrame(age, columns=['Name', 'Marks', 'Gender'])
  
 # Printing dataframe
-df
-Output:
+
 ![image](https://user-images.githubusercontent.com/90592521/189034418-9c1f6868-fd0d-4f0f-b0dd-dc5850fb94c4.png)
 
+----------------------------------------------------------------------------------------------------------------------
 
-
-Numpy: It is the fundamental library of python, used to perform scientific computing. It provides high-performance multidimensional arrays and tools to deal with them. A numpy array is a grid of values (of the same type) that are indexed by a tuple of positive integers, numpy arrays are fast, easy to understand, and give users the right to perform calculations across arrays.
+# Numpy:
+It is the fundamental library of python, used to perform scientific computing. It provides high-performance multidimensional arrays and tools to deal with them. A numpy array is a grid of values (of the same type) that are indexed by a tuple of positive integers, numpy arrays are fast, easy to understand, and give users the right to perform calculations across arrays.
 
 Example:
 
