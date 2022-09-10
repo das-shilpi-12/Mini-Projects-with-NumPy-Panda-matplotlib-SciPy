@@ -33,4 +33,5 @@ print(h)
 print("******************f*****************************")
 print(f)
 print("*****************j***********************")
-j = presidents_df[['height','age']].hea
+j = presidents_df[['height','age']].head(n=3)
+print(j)
