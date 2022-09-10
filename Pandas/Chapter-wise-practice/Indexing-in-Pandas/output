@@ -1,0 +1,149 @@
+                        order  age  height                  party
+name                                                             
+George Washington           1   57     189                   none
+John Adams                  2   61     170             federalist
+Thomas Jefferson            3   57     189  democratic-republican
+James Madison               4   57     163  democratic-republican
+James Monroe                5   58     183  democratic-republican
+John Quincy Adams           6   57     171  democratic-republican
+Andrew Jackson              7   61     185             democratic
+Martin Van Buren            8   54     168             democratic
+William Henry Harrison      9   68     173                   whig
+John Tyler                 10   51     183                   whig
+James K. Polk              11   49     173             democratic
+Zachary Taylor             12   64     173                   whig
+Millard Fillmore           13   50     175                   whig
+Franklin Pierce            14   48     178             democratic
+James Buchanan             15   65     183             democratic
+Abraham Lincoln            16   52     193             republican
+Andrew Johnson             17   56     178         national union
+Ulysses S. Grant           18   46     173             republican
+Rutherford B. Hayes        19   54     174             republican
+James A. Garfield          20   49     183             republican
+Chester A. Arthur          21   51     183             republican
+Grover Cleveland           22   47     180             democratic
+Benjamin Harrison          23   55     168             republican
+Grover Cleveland           25   55     180             democratic
+William McKinley           25   54     170             republican
+Theodore Roosevelt         26   42     178             republican
+William Howard Taft        27   51     182             republican
+Woodrow Wilson             28   56     180             democratic
+Warren G. Harding          29   55     183             republican
+Calvin Coolidge            30   51     178             republican
+Herbert Hoover             31   54     182             republican
+Franklin D. Roosevelt      32   51     188             democratic
+Harry S. Truman            33   60     175             democratic
+Dwight D. Eisenhower       34   62     179             republican
+John F. Kennedy            35   43     183             democratic
+Lyndon B. Johnson          36   55     193             democratic
+Richard Nixon              37   56     182             republican
+Gerald Ford                38   61     183             republican
+Jimmy Carter               39   52     177             democratic
+Ronald Reagan              40   69     185             republican
+George H. W. Bush          41   64     188             republican
+Bill Clinton               42   46     188             democratic
+George W. Bush             43   54     182             republican
+Barack Obama               44   47     185             democratic
+Donald J. Trump            45   70     191             republican
+************************************************
+******************a******************************
+order             16
+age               52
+height           193
+party     republican
+Name: Abraham Lincoln, dtype: object
+************************************************
+*******************b*****************************
+                     order  age  height           party
+name                                                   
+Abraham Lincoln         16   52     193      republican
+Andrew Johnson          17   56     178  national union
+Ulysses S. Grant        18   46     173      republican
+Rutherford B. Hayes     19   54     174      republican
+James A. Garfield       20   49     183      republican
+Chester A. Arthur       21   51     183      republican
+Grover Cleveland        22   47     180      democratic
+Benjamin Harrison       23   55     168      republican
+************************************************
+*******************c*****************************
+<class 'pandas.core.series.Series'>
+************************************************
+*******************d*****************************
+order       12
+age         64
+height     173
+party     whig
+Name: Zachary Taylor, dtype: object
+************************************************
+*****************i*******************************
+                     order  age  height           party
+name                                                   
+Zachary Taylor          12   64     173            whig
+Millard Fillmore        13   50     175            whig
+Franklin Pierce         14   48     178      democratic
+James Buchanan          15   65     183      democratic
+Abraham Lincoln         16   52     193      republican
+Andrew Johnson          17   56     178  national union
+Ulysses S. Grant        18   46     173      republican
+Rutherford B. Hayes     19   54     174      republican
+James A. Garfield       20   49     183      republican
+************************************************
+*****************e*******************************
+Index(['order', 'age', 'height', 'party'], dtype='object')
+************************************************
+*******************h*****************************
+name
+George Washington         57
+John Adams                61
+Thomas Jefferson          57
+James Madison             57
+James Monroe              58
+John Quincy Adams         57
+Andrew Jackson            61
+Martin Van Buren          54
+William Henry Harrison    68
+John Tyler                51
+James K. Polk             49
+Zachary Taylor            64
+Millard Fillmore          50
+Franklin Pierce           48
+James Buchanan            65
+Abraham Lincoln           52
+Andrew Johnson            56
+Ulysses S. Grant          46
+Rutherford B. Hayes       54
+James A. Garfield         49
+Chester A. Arthur         51
+Grover Cleveland          47
+Benjamin Harrison         55
+Grover Cleveland          55
+William McKinley          54
+Theodore Roosevelt        42
+William Howard Taft       51
+Woodrow Wilson            56
+Warren G. Harding         55
+Calvin Coolidge           51
+Herbert Hoover            54
+Franklin D. Roosevelt     51
+Harry S. Truman           60
+Dwight D. Eisenhower      62
+John F. Kennedy           43
+Lyndon B. Johnson         55
+Richard Nixon             56
+Gerald Ford               61
+Jimmy Carter              52
+Ronald Reagan             69
+George H. W. Bush         64
+Bill Clinton              46
+George W. Bush            54
+Barack Obama              47
+Donald J. Trump           70
+Name: age, dtype: int64
+******************f*****************************
+(45,)
+*****************j***********************
+                   height  age
+name                          
+George Washington     189   57
+John Adams            170   61
+Thomas Jefferson      189   57
